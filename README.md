@@ -3,6 +3,8 @@
 🚀 RapidSign 🚀
 Blazingly Fast and Secure Document Signing Platform
 
+Live at: https://rapidsign.herokuapp.com
+
 Final Project for CS375
 Group Name: RapidSign
 
